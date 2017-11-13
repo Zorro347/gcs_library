@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<advantage_list id="5c62721e-b367-4587-9c95-944c4b3271a7" version="1">
+	<advantage version="2">
+		<name>Arcane Automaton</name>
+		<type>Physical, Supernatural</type>
+		<base_points>-55</base_points>
+		<reference>D94</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Quadruped</name>
+		<type>Physical</type>
+		<base_points>-35</base_points>
+		<reference>D96</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+		<weapon_bonus>
+			<name compare="is anything">Kick</name>
+			<specialization compare="is anything"></specialization>
+			<level compare="at least">0</level>
+			<amount per_level="yes">-1</amount>
+		</weapon_bonus>
+		<cost_reduction>
+			<attribute>st</attribute>
+			<percentage>40</percentage>
+		</cost_reduction>
+		<cost_reduction>
+			<attribute>dx</attribute>
+			<percentage>40</percentage>
+		</cost_reduction>
+	</advantage>
+	<advantage version="2">
+		<name>Compulsive Risk-Taking</name>
+		<type>Mental</type>
+		<base_points>-15</base_points>
+		<cr>9</cr>
+		<reference>D58</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Trickster</name>
+		<type>Mental</type>
+		<base_points>-15</base_points>
+		<cr>9</cr>
+		<reference>D58</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Troll Nocturnalism</name>
+		<type>Physical</type>
+		<base_points>-20</base_points>
+		<reference>D97</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Dwarfish Greed</name>
+		<type>Mental</type>
+		<base_points>-15</base_points>
+		<reference>D64</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Compulsive Barbarian Heroism</name>
+		<type>Mental</type>
+		<base_points>-10</base_points>
+		<cr>12</cr>
+		<reference>D58</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Fixation</name>
+		<type>Physical</type>
+		<levels>0</levels>
+		<base_points>-10</base_points>
+		<points_per_level>-1</points_per_level>
+		<reference>D95</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Literal-Minded</name>
+		<type>Mental</type>
+		<base_points>-10</base_points>
+		<modifier version="1" enabled="no">
+			<name>Has Clueless or No Sence of Humor</name>
+			<cost type="points">5</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D61</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Short Arms</name>
+		<type>Physical</type>
+		<base_points>-10</base_points>
+		<modifier version="1" enabled="no">
+			<name>Has One Arm</name>
+			<cost type="points">5</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D96</reference>
+		<notes>Cant do sw attacks</notes>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Totally Oblivious</name>
+		<type>Mental</type>
+		<base_points>-10</base_points>
+		<reference>D61</reference>
+		<notes>cannot spend points on Acting, Fast-Talk, Fortune-Telling, Intimidation, Interrogation, or Politics</notes>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Troll Brain</name>
+		<type>Physical</type>
+		<base_points>-10</base_points>
+		<reference>D97</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Octophobia (Number 8)</name>
+		<type>Mental</type>
+		<base_points>-5</base_points>
+		<reference>D63</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Compulsive Neatness</name>
+		<type>Mental</type>
+		<base_points>-5</base_points>
+		<cr>15</cr>
+		<reference>D58</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Short Legs</name>
+		<type>Physical</type>
+		<base_points>-2</base_points>
+		<reference>D96</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Autocondimentor</name>
+		<type>Mental</type>
+		<base_points>-1</base_points>
+		<reference>D66</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Brawling Society</name>
+		<type>Social</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Broad-Minded</name>
+		<type>Mental</type>
+		<base_points>-1</base_points>
+		<reference>D66</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Cannot float</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Cannot Run Long Distances</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Doggy Responses</name>
+		<type>Mental</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Former Alchogolic</name>
+		<type>Mental</type>
+		<base_points>-1</base_points>
+		<reference>D67</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Giggles a Lot</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D67</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Hunter's Habits</name>
+		<type>Mental</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>No Staff</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D68</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+		<prereq_list all="yes">
+			<skill_prereq has="yes">
+				<name compare="is">Magic (Wizardry)</name>
+				<specialization compare="is anything"></specialization>
+			</skill_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Silver Avertion</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Sunburns Easily</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Terrifying Singer</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D68</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+		<prereq_list all="yes">
+			<attribute_prereq has="yes" which="iq" compare="at least">10</attribute_prereq>
+			<skill_prereq has="no">
+				<name compare="is">Singing</name>
+				<specialization compare="is anything"></specialization>
+			</skill_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Veak Spot</name>
+		<type>Physical</type>
+		<base_points>-1</base_points>
+		<reference>D99</reference>
+		<categories>
+			<category>Quirk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Aerial</name>
+		<type>Physical, Supernatural</type>
+		<reference>D94</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Cold or Heat Resistance</name>
+		<type>Physical</type>
+		<modifier version="1" enabled="no">
+			<name>Cold Resistance</name>
+			<cost type="points">1</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Heat Resistance</name>
+			<cost type="points">1</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D50</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Faith Maitenance</name>
+		<type>Supernatural</type>
+		<modifier version="1" enabled="no">
+			<name>11-20 Believers</name>
+			<cost type="points">-25</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>21-50 believers</name>
+			<cost type="points">-30</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>51-100 believers</name>
+			<cost type="points">-35</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D95</reference>
+		<categories>
+			<category>Disadvantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Limited Magery</name>
+		<type>Mental, Supernatural</type>
+		<levels>0</levels>
+		<modifier version="1" enabled="no">
+			<name>No Spellcasting):</name>
+			<cost type="points">1</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Engineering Only 0</name>
+			<cost type="points">4</cost>
+			<affects>base only</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Engineering Only 1+</name>
+			<cost type="points">6</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Non-Improvisational 0</name>
+			<cost type="points">4</cost>
+			<affects>base only</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Non-Improvisational 1+</name>
+			<cost type="percentage">7</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D44</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Recognised Divinity</name>
+		<type>Social, Supernatural</type>
+		<reference>D94</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Archaic training</name>
+		<type>Physical</type>
+		<levels>1</levels>
+		<points_per_level>1</points_per_level>
+		<reference>D50</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Assasin in Good Standing</name>
+		<type>Social</type>
+		<base_points>1</base_points>
+		<reference>D50</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Blade-Proof Bare-Chestedness</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D50</reference>
+		<notes>+1 to all active defences, In just a loincloth or otherwise skimpy wear, that becomes +2</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+		<prereq_list all="no">
+			<advantage_prereq has="yes">
+				<name compare="is">Odious Personal Habit (Barbarian Heroism)</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+			<advantage_prereq has="yes">
+				<name compare="is">Compulsive Barbarian Heroism</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Boredom Immunity</name>
+		<type>Mental</type>
+		<base_points>1</base_points>
+		<reference>D93</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Check the Exit</name>
+		<type>Mental</type>
+		<base_points>1</base_points>
+		<reference>D50</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Climatic Emphasis</name>
+		<type>Supernatural</type>
+		<base_points>1</base_points>
+		<reference>D50</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Cobblestone Sense</name>
+		<type>Mental</type>
+		<base_points>1</base_points>
+		<reference>D50</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+		<prereq_list all="yes">
+			<skill_prereq has="yes">
+				<name compare="is">Area Knowledge</name>
+				<specialization compare="is anything"></specialization>
+			</skill_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Controllable Disadvantage</name>
+		<type>Mental/Physical</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Crossbow Safety</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Cutting-Edge Training</name>
+		<type>Mental</type>
+		<levels>1</levels>
+		<points_per_level>1</points_per_level>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Divine News-Feed</name>
+		<type>Mental, Supernatural</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Dual Ready (@Weapon1@ &amp; @Weapon2@) </name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<notes>Specialise by weapon combination in left-hand/righthand order</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Forgettable face</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Fully Dressed Ressurection</name>
+		<type>Supernatural</type>
+		<base_points>1</base_points>
+		<reference>D93</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+		<prereq_list all="yes">
+			<advantage_prereq has="yes">
+				<name compare="is">Unkilabble</name>
+				<notes compare="is anything"></notes>
+				<level compare="at least">2</level>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Good With (@Animal@)</name>
+		<type>Social</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Good With (Social Group)</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Heartbeat Counter</name>
+		<type>Physical, Supernatural</type>
+		<base_points>1</base_points>
+		<reference>D94</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+		<prereq_list all="yes">
+			<advantage_prereq has="no">
+				<name compare="is">Deafness</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+			<attribute_prereq has="yes" which="iq" compare="at least">10</attribute_prereq>
+			<advantage_prereq has="no">
+				<name compare="is">Hard of Hearing</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>High-Heeled Heroine</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Hones Face</name>
+		<type>Social</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Hyper-Specialisation (@IQ Skill@)</name>
+		<type>Mental</type>
+		<base_points>1</base_points>
+		<reference>D51</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Impovised Weapons (@Weapon skill@)</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Limited Camuflage (@Camuflage@)</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D94</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Longevity</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Name hearing</name>
+		<type>Exotic, Supernatural</type>
+		<base_points>1</base_points>
+		<reference>D94</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Oggham Reader</name>
+		<type>Mental</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Protected Eyes</name>
+		<type>Physical</type>
+		<levels>1</levels>
+		<points_per_level>1</points_per_level>
+		<reference>D90</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Secret Name</name>
+		<type>Social</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+		<prereq_list all="yes">
+			<advantage_prereq has="yes">
+				<name compare="is">Magery</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Self-Styling Hair</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Sorrid Claws</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D94</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+		<prereq_list all="yes">
+			<advantage_prereq has="yes">
+				<name compare="is anything">Claws</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Statuesque</name>
+		<type>Physical, Social</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Striking Surface</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D94</reference>
+		<notes>Prerequisite: Damage Resistance 3+ without the Tough Skin option</notes>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Temperature Tolerance 1 (Cold)</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>92</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Temperature Tolerance 1 (Heat)</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>92</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>There on Call</name>
+		<type>Social</type>
+		<base_points>1</base_points>
+		<reference>D52</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Understands the Librarian</name>
+		<type>Social</type>
+		<base_points>1</base_points>
+		<reference>D53</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Unfased by Size</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<reference>D94</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Wordless Influence</name>
+		<type>Physical</type>
+		<base_points>1</base_points>
+		<modifier version="1" enabled="no">
+			<name>Fearsome Stare</name>
+			<cost type="points">1</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Haughty Sneer</name>
+			<cost type="points">1</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Street Swagger</name>
+			<cost type="points">1</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D53</reference>
+		<categories>
+			<category>Perk</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Cast-iron Stomach</name>
+		<type>Physical</type>
+		<base_points>3</base_points>
+		<reference>D87</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Resistant to Disease +3</name>
+		<type>Physical</type>
+		<base_points>3</base_points>
+		<reference>D46</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Temperature Tolerance 2 (Cold)</name>
+		<type>Physical</type>
+		<base_points>3</base_points>
+		<reference>92</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Temperature Tolerance 2 (Heat)</name>
+		<type>Physical</type>
+		<base_points>3</base_points>
+		<reference>92</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Resistant to Disease +8</name>
+		<type>Physical</type>
+		<base_points>5</base_points>
+		<reference>D46</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Spirit Empathy (Specialised)</name>
+		<type>Mental, Supernatural</type>
+		<base_points>5</base_points>
+		<reference>D42</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Superior Staff</name>
+		<type>Social</type>
+		<levels>1</levels>
+		<points_per_level>5</points_per_level>
+		<modifier version="1" enabled="no">
+			<name>Sapient Pearwood Staff:</name>
+			<cost type="points">10</cost>
+			<affects>base only</affects>
+			<notes>Only at lvl 3</notes>
+		</modifier>
+		<reference>D47</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+		<prereq_list all="yes">
+			<skill_prereq has="yes">
+				<name compare="is">Magic (Wizardry)</name>
+				<specialization compare="is anything"></specialization>
+			</skill_prereq>
+			<advantage_prereq has="yes">
+				<name compare="is">Magery</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Temperature Tolerance 3 (Cold)</name>
+		<type>Physical</type>
+		<base_points>6</base_points>
+		<reference>92</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Temperature Tolerance 3 (Heat)</name>
+		<type>Physical</type>
+		<base_points>6</base_points>
+		<reference>92</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Immunity to Disease</name>
+		<type>Physical</type>
+		<base_points>10</base_points>
+		<reference>D46</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Pathwork Man</name>
+		<type>Physical, Exotic</type>
+		<base_points>10</base_points>
+		<reference>D45</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+		<prereq_list all="yes">
+			<prereq_list all="no">
+				<advantage_prereq has="yes">
+					<name compare="is">Repairable</name>
+					<notes compare="is anything"></notes>
+				</advantage_prereq>
+				<advantage_prereq has="yes">
+					<name compare="is">Very Rapid Healing</name>
+					<notes compare="is anything"></notes>
+				</advantage_prereq>
+			</prereq_list>
+			<prereq_list all="no">
+				<advantage_prereq has="yes">
+					<name compare="is">Immunity</name>
+					<notes compare="is anything"></notes>
+				</advantage_prereq>
+				<advantage_prereq has="yes">
+					<name compare="is">Resistant to Disease</name>
+					<notes compare="is anything"></notes>
+					<level compare="at least">8</level>
+				</advantage_prereq>
+			</prereq_list>
+			<advantage_prereq has="yes">
+				<name compare="is">High Pain Threshold</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Alternate Form (@Form@)</name>
+		<type>Physical, Exotic, Supernatural</type>
+		<base_points>15</base_points>
+		<modifier version="1" enabled="no">
+			<name>Form is more expensive than regualr form</name>
+			<cost type="points">0</cost>
+			<affects>total</affects>
+			<notes>90% of the difference between forms (100% if Once On, Stays On)</notes>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Absorptive Change (Encumbrance: None)</name>
+			<cost type="percentage">5</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Absorptive Change (Encumbrance: Light)</name>
+			<cost type="percentage">10</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Absorptive Change (Encumbrance: Medium)</name>
+			<cost type="percentage">15</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Absorptive Change (Encumbrance: Heavy)</name>
+			<cost type="percentage">20</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Absorptive Change (Encumbrance: Extra-Heavy)</name>
+			<cost type="percentage">25</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Emergencies Only</name>
+			<cost type="percentage">-30</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Once On, Stays On</name>
+			<cost type="percentage">50</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Reduced Change Time (5 seconds)</name>
+			<cost type="percentage">20</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Reduced Change Time (2 seconds)</name>
+			<cost type="percentage">60</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Reduced Change Time (1 second)</name>
+			<cost type="percentage">80</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Trigger (almost anywhere)</name>
+			<cost type="percentage">-10</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Trigger (something seriously expensive or inconvenient)</name>
+			<cost type="percentage">-40</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Trigger (only change during the period of the full moon)</name>
+			<cost type="percentage">-25</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Unconscious Only</name>
+			<cost type="percentage">-20</cost>
+			<affects>total</affects>
+			<notes>You can only take this in conjunction with Uncontrollable</notes>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Uncontrollable (fixed times)</name>
+			<cost type="percentage">-10</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D85</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Mad Medicine</name>
+		<type>Mental</type>
+		<base_points>15</base_points>
+		<reference>D44</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+		<prereq_list all="yes">
+			<when_tl compare="is">5</when_tl>
+			<advantage_prereq has="yes">
+				<name compare="is">Gadgeteer</name>
+				<notes compare="is anything"></notes>
+			</advantage_prereq>
+			<skill_prereq has="yes">
+				<name compare="is">Surgery</name>
+				<specialization compare="is anything"></specialization>
+			</skill_prereq>
+			<skill_prereq has="yes">
+				<name compare="is">Physician</name>
+				<specialization compare="is anything"></specialization>
+			</skill_prereq>
+		</prereq_list>
+	</advantage>
+	<advantage version="2">
+		<name>Pressure-Proof</name>
+		<type>Physical</type>
+		<base_points>15</base_points>
+		<reference>D90</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Sonar</name>
+		<type>Physical</type>
+		<base_points>20</base_points>
+		<reference>D91</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Repairable</name>
+		<type>Physical</type>
+		<base_points>50</base_points>
+		<reference>D91</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Unnoticed</name>
+		<type>Supernatural</type>
+		<base_points>70</base_points>
+		<reference>D48</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Dimension Shift</name>
+		<type>Supernatural</type>
+		<base_points>80</base_points>
+		<reference>D88</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Voice of Command</name>
+		<type>Physical</type>
+		<levels>0</levels>
+		<base_points>90</base_points>
+		<points_per_level>5</points_per_level>
+		<modifier version="1" enabled="no">
+			<name>Only affects humans</name>
+			<cost type="points">-5</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>&#8220;Only on trolls&#8221; or &#8220;Only on males&#8221; etc</name>
+			<cost type="points">-10</cost>
+			<affects>total</affects>
+		</modifier>
+		<modifier version="1" enabled="no">
+			<name>Only affects redheads etc.</name>
+			<cost type="points">-25</cost>
+			<affects>total</affects>
+		</modifier>
+		<reference>D49</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Swarm Body</name>
+		<type>Physical, Supernatural</type>
+		<base_points>135</base_points>
+		<reference>D91</reference>
+		<categories>
+			<category>Advantage</category>
+		</categories>
+	</advantage>
+</advantage_list>
