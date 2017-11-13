@@ -1,0 +1,2461 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<equipment_list id="ced6b865-b98d-4a20-8247-130393fd9df3" version="1">
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Cord, 3/16&#8221;</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.05</value>
+		<weight>0.5 lb</weight>
+		<reference>D157</reference>
+		<notes>Per 10 yards</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Iron Spike (Piton)</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.05</value>
+		<weight>0.5 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>10</quantity>
+		<description>Lead Bullet</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.05</value>
+		<weight>0.05 lb</weight>
+		<reference>D155</reference>
+		<categories>
+			<category>Ammunition</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Arrow</description>
+		<legality_class>4</legality_class>
+		<value>0.1</value>
+		<weight>0.1 lb</weight>
+		<reference>D155</reference>
+		<categories>
+			<category>Ammunition</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Crossbow Bolt</description>
+		<legality_class>4</legality_class>
+		<value>0.1</value>
+		<weight>0.06 lb</weight>
+		<reference>D155</reference>
+		<categories>
+			<category>Ammunition</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Oil</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.1</value>
+		<weight>1 lb</weight>
+		<reference>D157</reference>
+		<notes>1 pint</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Towel, Small/Blanket Patch</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.1</value>
+		<weight>0.5 lb</weight>
+		<reference>D156</reference>
+		<notes>Inflicting existential paralysis on bogeymen</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Traveller&#8217;s Rations</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.1</value>
+		<weight>0.5 lb</weight>
+		<reference>D156</reference>
+		<notes>One meal</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Troll Bolt</description>
+		<legality_class>4</legality_class>
+		<value>0.1</value>
+		<weight>0.1 lb</weight>
+		<reference>D155</reference>
+		<categories>
+			<category>Ammunition</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Ceramic Bottle</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.15</value>
+		<weight>1 lb</weight>
+		<reference>D156</reference>
+		<notes>Holds about 2 pints of liquid.</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Throwing Star</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.15</value>
+		<weight>0.1 lb</weight>
+		<reference>D153</reference>
+		<ranged_weapon>
+			<damage>thr-1 cut</damage>
+			<strength>5</strength>
+			<usage>Throw</usage>
+			<accuracy>1</accuracy>
+			<range>x0.5/x1</range>
+			<shots>T</shots>
+			<bulk>0</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Throwing Star)</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Throwing Star</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Torch</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.15</value>
+		<weight>1 lb</weight>
+		<reference>D157</reference>
+		<notes>Burns for 1 hr</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Matches</description>
+		<tech_level>4</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.2</value>
+		<reference>D157</reference>
+		<notes>Box of 20</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Candle, Tallow</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.25</value>
+		<weight>1 lb</weight>
+		<reference>D156</reference>
+		<notes>Lasts 12 hrs.</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Large Truncheon</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.25</value>
+		<weight>3 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+1 cr</damage>
+			<strength>10</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Broadsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+1 cr</damage>
+			<strength>10</strength>
+			<usage>Thrusted</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Broadsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Broadsword</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Personal Basics</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.25</value>
+		<weight>1 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Pole, 6&#8217;</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.25</value>
+		<weight>3 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Rope, 3/8&#8221;</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.25</value>
+		<weight>1.5 lb</weight>
+		<reference>D157</reference>
+		<notes>10 yards</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Whetstone</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.25</value>
+		<weight>1 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Hatpin</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.3</value>
+		<weight>0.1 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>thr-2 imp</damage>
+			<strength>2</strength>
+			<usage>Thrust</usage>
+			<reach>C</reach>
+			<parry>-2</parry>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</melee_weapon>
+		<notes>Isn&#8217;t technically a weapon</notes>
+		<categories>
+			<category>Knife</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Pole, 10&#8217;</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.4</value>
+		<weight>5 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Bandages</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<weight>2 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Pouch or Purse, Small</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<reference>D157</reference>
+		<notes>Holds 3 lbs.</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Quarterstaf</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<weight>4 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+2 cr</damage>
+			<strength>7&#8224;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>+2</parry>
+			<default>
+				<type>Skill</type>
+				<name>Staff</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+2 cr</damage>
+			<strength>7&#8224;</strength>
+			<usage>Thrust</usage>
+			<reach>1,2</reach>
+			<parry>+2</parry>
+			<default>
+				<type>Skill</type>
+				<name>Staff</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Staff</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Religious Symbol, Wood</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<weight>1 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Shoulder Quiver</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<weight>0.5 lb</weight>
+		<reference>D157</reference>
+		<notes>Holds 12 arrows or bolts</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Wax Tablet</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Wineskin</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.5</value>
+		<weight>0.25 lb</weight>
+		<reference>D156</reference>
+		<notes>Holds about a gallon of liquid</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Shovel</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.6</value>
+		<weight>6 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Hip Quiver</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.75</value>
+		<weight>1 lb</weight>
+		<reference>D157</reference>
+		<notes>Holds 20 arrows or bolts</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Scythe</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>0.75</value>
+		<weight>5 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+2 cut</damage>
+			<strength>11&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>sw imp</damage>
+			<strength>11&#8225;</strength>
+			<usage>Swing (imp)</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<notes>May stuck in enemy on imp attack</notes>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Axe/Mace</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Agatean Numknuts</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>2 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+1 cr</damage>
+			<strength>7</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Flail</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<notes>Attemps at parry -2, block -1, F weapons cannot parry</notes>
+		<categories>
+			<category>Flail</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Blanket</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>4 lb</weight>
+		<reference>D156</reference>
+		<notes>A warm sleeping blanket.</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Boomerang Croissant</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>1 lb</weight>
+		<reference>D153</reference>
+		<ranged_weapon>
+			<damage>sw cr</damage>
+			<strength>6</strength>
+			<usage>Throw</usage>
+			<accuracy>2</accuracy>
+			<range>x6/x10</range>
+			<shots>T</shots>
+			<bulk>-2</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Stick)</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<notes>Will return if thrown at-5 and missed</notes>
+		<categories>
+			<category>Stick</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Cement, Ceramic</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Climbing Gear</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>4 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Crowbar, 3&#8217;</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>3 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Dagger</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>0.25 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>thr-1 imp</damage>
+			<strength>5</strength>
+			<usage>Thrust</usage>
+			<reach>C</reach>
+			<parry>-1</parry>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>thr-1 imp</damage>
+			<strength>5</strength>
+			<usage>Throw</usage>
+			<accuracy>0</accuracy>
+			<range>x0.5/x1</range>
+			<shots>T</shots>
+			<bulk>-1</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Knife)</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Knife</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Lantern</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<notes>Burns for 24 hours on 1 pint of oil.</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Sewing Kit</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>0.5 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Sling</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>0.5 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>sw pi</damage>
+			<strength>6</strength>
+			<usage>Shoot (rock)</usage>
+			<accuracy>0</accuracy>
+			<range>x6/x10</range>
+			<shots>1(2)</shots>
+			<bulk>-4</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Sling</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-6</modifier>
+			</default>
+		</ranged_weapon>
+		<ranged_weapon>
+			<damage>sw+1 pi</damage>
+			<strength>6</strength>
+			<usage>Shoot (lead bullet)</usage>
+			<accuracy>0</accuracy>
+			<range>x12/x20</range>
+			<shots>1(2)</shots>
+			<bulk>-4</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Sling</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<notes>Requires two hands to ready, but only one hand to attack.</notes>
+		<categories>
+			<category>Missile Weapon</category>
+			<category>Sling</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Small Truncheon</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>1</value>
+		<weight>1 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw cr</damage>
+			<strength>6</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr cr</damage>
+			<strength>6</strength>
+			<usage>Thrust</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Shortsword</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Rope, 3/4&#8221;</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.25</value>
+		<weight>5 lb</weight>
+		<reference>D157</reference>
+		<notes>10 yards</notes>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Blowpipe</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.5</value>
+		<weight>1 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>1d-3 pi-</damage>
+			<strength>2</strength>
+			<usage>Shoot</usage>
+			<accuracy>1</accuracy>
+			<range>x4</range>
+			<shots>1(2)</shots>
+			<bulk>-6</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Blowpipe</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<notes>Requires two hands to ready, but only one hand to attack.</notes>
+		<categories>
+			<category>Blowpipe</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Javelin</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.5</value>
+		<weight>2 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>thr+1 imp</damage>
+			<strength>6</strength>
+			<usage>Trust</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Spear</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>thr+1 imp</damage>
+			<strength>6</strength>
+			<usage>Throw</usage>
+			<accuracy>3</accuracy>
+			<range>x1.5/x2.5</range>
+			<shots>T</shots>
+			<bulk>-4</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon ( Spear)</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Spear</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Small Knife</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.5</value>
+		<weight>0.5 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw-3 cut</damage>
+			<strength>5</strength>
+			<usage>Swing</usage>
+			<reach>C, 1</reach>
+			<parry>-1</parry>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr-1 imp</damage>
+			<strength>5</strength>
+			<usage>Thrust</usage>
+			<reach>C</reach>
+			<parry>-1</parry>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>thr-1 imp</damage>
+			<strength>5</strength>
+			<usage>Throw</usage>
+			<accuracy>0</accuracy>
+			<range>x0.5/x1</range>
+			<shots>T</shots>
+			<bulk>-1</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Knife)</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Knife</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Ballance and Weights</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.75</value>
+		<weight>3 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Club</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.75</value>
+		<weight>5 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+2 cr</damage>
+			<strength>12</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>AXE/MACE</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Small Mace</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>1.75</value>
+		<weight>3 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+2 cr</damage>
+			<strength>10</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>sw+2 cr</damage>
+			<strength>10</strength>
+			<usage>Throw</usage>
+			<accuracy>1</accuracy>
+			<range>x1/x1.5</range>
+			<shots>T</shots>
+			<bulk>-3</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Axe/Mace)</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>AXE/MACE</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Hatchet</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2</value>
+		<weight>2 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw cut</damage>
+			<strength>8</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>sw cut</damage>
+			<strength>8</strength>
+			<usage>Throw</usage>
+			<accuracy>1</accuracy>
+			<range>x1.5/2.5</range>
+			<shots>T</shots>
+			<bulk>-2</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Axe/Mace)</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>AXE/MACE</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Hourglass</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>2</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Large Knife</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2</value>
+		<weight>1 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw-2 cut</damage>
+			<strength>6</strength>
+			<usage>Swing</usage>
+			<reach>C,1</reach>
+			<parry>-1</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr imp</damage>
+			<strength>6</strength>
+			<usage>Thrust</usage>
+			<reach>C</reach>
+			<parry>-1</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>thr imp</damage>
+			<strength>6</strength>
+			<usage>Throw</usage>
+			<accuracy>0</accuracy>
+			<range>x0.8/x1.5</range>
+			<shots>T</shots>
+			<bulk>-2</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Knife)</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Knife</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Spear</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2</value>
+		<weight>4 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>thr+2 imp</damage>
+			<strength>9</strength>
+			<usage>Thrust</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Spear</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+3 imp</damage>
+			<strength>9&#8224;</strength>
+			<usage>two hands</usage>
+			<reach>1,2</reach>
+			<parry>0</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Spear</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>thr+3 imp</damage>
+			<strength>9</strength>
+			<usage>Throw</usage>
+			<accuracy>2</accuracy>
+			<range>x1/x1.5</range>
+			<shots>T</shots>
+			<bulk>-6</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon ( Spear)</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Spear</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Watchman&#8217;s Hand-Bell</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>2</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Caroc Cards</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>0.5 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Clockwork Pocket-Watch</description>
+		<tech_level>4</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>0.26 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Compass</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>1 lb</weight>
+		<reference>D156</reference>
+		<notes>+1 to Navigation skill.</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>First Aid Kit</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Fishhooks and Line</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>0.1 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Group Basics</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>20 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Lockpics</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>0.1 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Mace</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>3 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+3 cr</damage>
+			<strength>12</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>sw+3 cr</damage>
+			<strength>12</strength>
+			<usage>Throw</usage>
+			<accuracy>1</accuracy>
+			<range>x0.5/x1</range>
+			<shots>T</shots>
+			<bulk>-4</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Axe/Mace)</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>AXE/MACE</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Scribe&#8217;s Kit</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>2 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Short Bow</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>2 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr imp</damage>
+			<strength>7</strength>
+			<usage>Shoot</usage>
+			<accuracy>1</accuracy>
+			<range>x10/x15</range>
+			<shots>1(2)</shots>
+			<bulk>-6</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Bow</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Bow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Sleeping Fur</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>8 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Tent, 1-man</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>2.5</value>
+		<weight>5 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Axe</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>3</value>
+		<weight>4 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+2 cut</damage>
+			<strength>11</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<ranged_weapon>
+			<damage>sw+2 cut</damage>
+			<strength>11</strength>
+			<usage>Throw</usage>
+			<accuracy>2</accuracy>
+			<range>x1/x1.5</range>
+			<shots>T</shots>
+			<bulk>-3</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Thrown Weapon (Axe/Mace)</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>AXE/MACE</category>
+			<category>Melee Weapon</category>
+			<category>Thrown Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Backpack, Small</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>3</value>
+		<weight>3 lb</weight>
+		<reference>D156</reference>
+		<notes>Holds 40 lbs. of gear.</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Shield</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>3</value>
+		<weight>15 lb</weight>
+		<reference>D155</reference>
+		<melee_weapon>
+			<damage>thr cr</damage>
+			<usage>Bash</usage>
+			<parry>No</parry>
+			<block>+2</block>
+		</melee_weapon>
+		<notes>+2 to all defence rolls</notes>
+		<categories>
+			<category>Shield</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Pick</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>3.5</value>
+		<weight>3 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+1 imp</damage>
+			<strength>10</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<notes>May stuck in enemy</notes>
+		<categories>
+			<category>AXE/MACE</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Big Club</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>4</value>
+		<weight>12 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+4 cr</damage>
+			<strength>13&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>1, 2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Axe/Mace</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Morningstar</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>4</value>
+		<weight>6 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>Sw+3</damage>
+			<strength>12</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Flail</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<notes>Attemps at patty -4, block -2, F weapons cannot parry</notes>
+		<categories>
+			<category>Flail</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Short Glave</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>4</value>
+		<weight>6 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+2 cut</damage>
+			<strength>9&#8224;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Polearm</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>ST</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+3 imp</damage>
+			<strength>9&#8224;</strength>
+			<usage>Thrust</usage>
+			<reach>1,2</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Polearm</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Polearm</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Tent, 2-man</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>4</value>
+		<weight>12 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Backpack, Frame</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>5</value>
+		<weight>10 lb</weight>
+		<reference>D156</reference>
+		<notes>Holds 100 lbs. of gear.</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Caroc Cards (good)</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>5</value>
+		<weight>0.5 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Great Axe</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>5</value>
+		<weight>8 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+3 cut</damage>
+			<strength>12&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Axe/Mace</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Saddlebags</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>5</value>
+		<weight>3 lb</weight>
+		<reference>D156</reference>
+		<notes>Hold 40 lbs.</notes>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Spyglass</description>
+		<tech_level>4</tech_level>
+		<legality_class>4</legality_class>
+		<value>5</value>
+		<weight>4 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Very Big Club</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>5</value>
+		<weight>15 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+5 cr</damage>
+			<strength>16&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Axe/Mace</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Huge Club</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>7</value>
+		<weight>21 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+7 cr</damage>
+			<strength>23&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Axe/Mace</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Monster Club</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>7</value>
+		<weight>27 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+9 cr</damage>
+			<strength>29&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Axe/Mace</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Crossbow</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>7.5</value>
+		<weight>6 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr+4 imp</damage>
+			<strength>7</strength>
+			<usage>Shoot</usage>
+			<accuracy>4</accuracy>
+			<range>x20/x25</range>
+			<shots>1(4)</shots>
+			<bulk>-9</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Crossbow</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Crossbow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Halbert</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>7.5</value>
+		<weight>12 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+5 cut</damage>
+			<strength>13&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>2,3</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Polearm</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>sw+4 imp</damage>
+			<strength>13&#8225;</strength>
+			<usage>Swing</usage>
+			<reach>2, 3</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Polearm</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+3 imp</damage>
+			<strength>12&#8224;</strength>
+			<usage>Thrust</usage>
+			<reach>1-3</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Polearm</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<notes>May stuck in enemy when using sw imp attack.</notes>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Polearm</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Pistol Crossbow</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>7.5</value>
+		<weight>4 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr+2 imp</damage>
+			<strength>7</strength>
+			<usage>Shoot</usage>
+			<accuracy>1</accuracy>
+			<range>x15/x20</range>
+			<shots>1(4)</shots>
+			<bulk>-4</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Crossbow</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Crossbow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Tent, 4-man</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>7.5</value>
+		<weight>30 lb</weight>
+		<reference>D156</reference>
+		<categories>
+			<category>Camping/Travel Gear</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Very Light Armour</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>7.5</value>
+		<weight>9 lb</weight>
+		<reference>D156</reference>
+		<notes>DR 1</notes>
+		<categories>
+			<category>Armour</category>
+		</categories>
+		<dr_bonus>
+			<location>full body</location>
+			<amount>1</amount>
+		</dr_bonus>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Longbow</description>
+		<tech_level>0</tech_level>
+		<legality_class>4</legality_class>
+		<value>10</value>
+		<weight>3 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr+2 imp</damage>
+			<strength>11</strength>
+			<usage>Shoot</usage>
+			<accuracy>3</accuracy>
+			<range>x15/x20</range>
+			<shots>1(2)</shots>
+			<bulk>-8</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Bow</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Bow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Troll Crossbow</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>10</value>
+		<weight>12 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr+5 imp</damage>
+			<strength>16</strength>
+			<usage>Shoot</usage>
+			<accuracy>4</accuracy>
+			<range>x22/x28</range>
+			<shots>1(4)</shots>
+			<bulk>-9</bulk>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Crossbow</name>
+				<modifier>0</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Crossbow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Religious Symbol, Silver</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>15</value>
+		<weight>0.25 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Surgical Instruments</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>15</value>
+		<weight>15 lb</weight>
+		<reference>D157</reference>
+		<categories>
+			<category>Assorted Tools/Equipment</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description> Light Armour</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>17.5</value>
+		<weight>20 lb</weight>
+		<reference>D156</reference>
+		<notes>DR 2</notes>
+		<categories>
+			<category>Armour</category>
+		</categories>
+		<dr_bonus>
+			<location>full body</location>
+			<amount>2</amount>
+		</dr_bonus>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Shortsword</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>20</value>
+		<weight>2 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw cut</damage>
+			<strength>8</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+1 imp</damage>
+			<strength>8</strength>
+			<usage>Thrust</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Shortsword</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Sickle Sword</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>20</value>
+		<weight>3 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+1 cut</damage>
+			<strength>10</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr-1 imp</damage>
+			<strength>10</strength>
+			<usage>Thrust</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Shortsword</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Smallsword</description>
+		<tech_level>4</tech_level>
+		<legality_class>4</legality_class>
+		<value>20</value>
+		<weight>1.5 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>thr+1 imp</damage>
+			<strength>5</strength>
+			<usage>Thrust</usage>
+			<reach>1</reach>
+			<parry>0F</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Smallsword</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Smallsword</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Spring Gun</description>
+		<tech_level>4</tech_level>
+		<legality_class>4</legality_class>
+		<value>20</value>
+		<weight>5 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr+4 imp</damage>
+			<strength>10</strength>
+			<usage>Shoot</usage>
+			<accuracy>3</accuracy>
+			<range>x20/x25</range>
+			<shots>1(4)</shots>
+			<bulk>-4</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Crossbow</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Crossbow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Rapier</description>
+		<tech_level>4</tech_level>
+		<legality_class>4</legality_class>
+		<value>25</value>
+		<weight>2.75 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>thr+1 imp</damage>
+			<strength>9</strength>
+			<usage>Thrust</usage>
+			<reach>1,2</reach>
+			<parry>0F</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Rapier</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Rapier</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Medium Armour</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>26</value>
+		<weight>30 lb</weight>
+		<reference>D156</reference>
+		<notes>DR 3</notes>
+		<categories>
+			<category>Armour</category>
+		</categories>
+		<dr_bonus>
+			<location>full body</location>
+			<amount>3</amount>
+		</dr_bonus>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Broadsword</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>30</value>
+		<weight>3 lb</weight>
+		<reference>D151</reference>
+		<melee_weapon>
+			<damage>sw+1 cut</damage>
+			<strength>10</strength>
+			<usage>Swing</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Broadsword</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+2 imp</damage>
+			<strength>10</strength>
+			<usage>Thrust</usage>
+			<reach>1</reach>
+			<parry>0</parry>
+			<default>
+				<type>Skill</type>
+				<name>Broadsword</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Broadsword</category>
+			<category>Melee Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Composite Bow</description>
+		<tech_level>1</tech_level>
+		<legality_class>4</legality_class>
+		<value>45</value>
+		<weight>4 lb</weight>
+		<reference>D154</reference>
+		<ranged_weapon>
+			<damage>thr+3 imp</damage>
+			<strength>10</strength>
+			<usage>Shoot</usage>
+			<accuracy>3</accuracy>
+			<range>x20/x15</range>
+			<shots>1(2)</shots>
+			<bulk>-7</bulk>
+			<default>
+				<type>Skill</type>
+				<name>Bow</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</ranged_weapon>
+		<categories>
+			<category>Bow</category>
+			<category>Missile Weapon</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Greatsword</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>45</value>
+		<weight>7 lb</weight>
+		<reference>D152</reference>
+		<melee_weapon>
+			<damage>sw+3 cut</damage>
+			<strength>12&#8224;</strength>
+			<usage>Swing</usage>
+			<reach>1,2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name> Two-Handed Sword</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<melee_weapon>
+			<damage>thr+3 imp</damage>
+			<strength>12&#8224;</strength>
+			<usage>Thrust</usage>
+			<reach>2</reach>
+			<parry>0U</parry>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name> Two-Handed Sword</name>
+				<modifier>0</modifier>
+			</default>
+		</melee_weapon>
+		<categories>
+			<category>Melee Weapon</category>
+			<category>Two-Handed Sword</category>
+		</categories>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Mail Armour</description>
+		<tech_level>2</tech_level>
+		<legality_class>4</legality_class>
+		<value>50</value>
+		<weight>75 lb</weight>
+		<reference>D156</reference>
+		<notes>DR 4</notes>
+		<categories>
+			<category>Armour</category>
+		</categories>
+		<dr_bonus>
+			<location>full body</location>
+			<amount>4</amount>
+		</dr_bonus>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Plate Armour</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>200</value>
+		<weight>90 lb</weight>
+		<reference>D156</reference>
+		<notes>DR 6</notes>
+		<categories>
+			<category>Armour</category>
+		</categories>
+		<dr_bonus>
+			<location>full body</location>
+			<amount>6</amount>
+		</dr_bonus>
+	</equipment>
+	<equipment version="4">
+		<quantity>1</quantity>
+		<description>Jousting Plate Armour</description>
+		<tech_level>3</tech_level>
+		<legality_class>4</legality_class>
+		<value>3200</value>
+		<weight>110 lb</weight>
+		<reference>D156</reference>
+		<notes>DR 7,  Helmet that eliminates peripheral vision.</notes>
+		<categories>
+			<category>Armour</category>
+		</categories>
+		<dr_bonus>
+			<location>full body</location>
+			<amount>7</amount>
+		</dr_bonus>
+	</equipment>
+</equipment_list>
