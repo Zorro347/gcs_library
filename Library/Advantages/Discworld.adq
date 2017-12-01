@@ -298,9 +298,10 @@
 		</prereq_list>
 	</advantage>
 	<advantage version="2">
-		<name>Veak Spot</name>
+		<name>Weak Spot (@Spot@)</name>
 		<type>Physical</type>
-		<base_points>-1</base_points>
+		<levels>1</levels>
+		<points_per_level>-1</points_per_level>
 		<reference>D99</reference>
 		<categories>
 			<category>Quirk</category>
@@ -1134,5 +1135,35 @@
 		<categories>
 			<category>Advantage</category>
 		</categories>
+	</advantage>
+	<advantage version="2">
+		<name>Talent (Metalwork)</name>
+		<type>Mental</type>
+		<base_points>10</base_points>
+		<skill_bonus>
+			<name compare="is">Jeweller</name>
+			<specialization compare="is anything"></specialization>
+			<amount>1</amount>
+		</skill_bonus>
+		<skill_bonus>
+			<name compare="is">Mechanic</name>
+			<specialization compare="is anything"></specialization>
+			<amount>1</amount>
+		</skill_bonus>
+		<skill_bonus>
+			<name compare="is">Metallurgy</name>
+			<specialization compare="is anything"></specialization>
+			<amount>1</amount>
+		</skill_bonus>
+		<skill_bonus>
+			<name compare="is">Prospecting</name>
+			<specialization compare="is anything"></specialization>
+			<amount>1</amount>
+		</skill_bonus>
+		<skill_bonus>
+			<name compare="is">Smith</name>
+			<specialization compare="is anything"></specialization>
+			<amount>1</amount>
+		</skill_bonus>
 	</advantage>
 </advantage_list>
